@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Inzi
-- 👀 I’m a newbie to web dev ...
-- 🌱 out of ideas and need to know how this this od the world works
+- 👀 I’m a Front End Developer...
 - 💞️ I’m looking to collaborate and gain experience , build myself with others learn new stuffs 
 
 
